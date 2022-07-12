@@ -1,0 +1,11 @@
+{
+  "name": "hackertalk-backend",
+  "version": "1.0.0",
+  "description": "This is backend application for hackertalk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taufik Alam",
+  "license": "ISC"
+}
